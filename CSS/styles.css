@@ -22,3 +22,8 @@ p.author {
 .unimportant {
     color: darkturquoise
 }
+
+.highlight {
+    background-color: blueviolet;
+    color: black;
+}
