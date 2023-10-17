@@ -13,3 +13,8 @@ p.author {
     color: red;
     font-weight: bold;
 }
+
+#superimp {
+    text-decoration: underline;
+    color: blueviolet;
+}
