@@ -18,3 +18,7 @@ p.author {
     text-decoration: underline;
     color: blueviolet;
 }
+
+.unimportant {
+    color: darkturquoise
+}
